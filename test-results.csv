@@ -1,4 +1,0 @@
-Test Name,Expected Output,Actual Output,Status,Timestamp
-shouldReturnHelloFromClassOne,Hello from Class one,Hello from Class one,PASS,2025-07-22 12:02:21
-shouldReturnHelloFromClassTwo,Hello from Class two,Hello from Class two,PASS,2025-07-22 12:02:21
-shouldReturnHelloFromClassThree,Hello from Class three,Hello from Class three,PASS,2025-07-22 12:02:21
